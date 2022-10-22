@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.game{
+    position:fixed;
+    left: 630px;
+    top: 150px;
+}
+.titulo{
+    position: fixed;
+    left: 750px;
+    top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: rgb(253, 56, 56);
+}
